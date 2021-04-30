@@ -28,8 +28,16 @@ Link to Website: https://crowderyan.github.io/HW1/
     ![Example of altered element names](./assets/images/semantic-elements.png)
 
 2. Adding Alternate display text to all the images
-   (Except the background image)
 
    ![Added description to alt tag](./assets/images/alt.png)
    ![Added description to alt tag](./assets/images/alt-1.png)
    ![Added description to alt tag](./assets/images/alt-2.png)
+
+   -Including the background image
+
+![Added alt tag for background image](./assets/images/alt-bg.png)
+
+    -added margin baseline for site content:
+
+![Added description to alt tag](./assets/images/margin-edit.png)
+![Added description to alt tag](./assets/images/margin-edit1.png)
