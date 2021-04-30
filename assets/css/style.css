@@ -70,7 +70,9 @@ p {
   margin-left: 25px;
 }
 
+/* Added room for background image */
 .content {
+  margin-top: 800px;
   width: 75%;
   display: inline-block;
   margin-left: 20px;
@@ -130,13 +132,15 @@ p {
   font-size: 36px;
 }
 
+/* Added room for background image */
 .benefits {
+  margin-top: 800px;
   margin-right: 20px;
   padding: 20px;
   clear: both;
   float: right;
   width: 20%;
-  height: 100%;
+  height: 125%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
@@ -189,7 +193,9 @@ p {
   max-width: 150px;
 }
 
+/* Added room for background image */
 .footer {
+  margin-top: 950px;
   padding: 30px;
   clear: both;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
