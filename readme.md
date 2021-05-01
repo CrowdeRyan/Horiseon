@@ -1,6 +1,6 @@
 # 01 HTML, CSS, and Git: Code Refactor (Explanation ReadMe)
 
-Link to Website: https://crowderyan.github.io/HW1/
+Link to Website: https://crowderyan.github.io/Horiseon/
 
 1. Cleaning up the code:
 
