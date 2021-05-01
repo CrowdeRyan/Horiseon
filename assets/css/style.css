@@ -78,6 +78,7 @@ p {
   margin-left: 20px;
 }
 
+/*Combined tags*/
 .services {
   margin-bottom: 20px;
   padding: 50px;
@@ -86,8 +87,6 @@ p {
   background-color: #0072bb;
   color: #ffffff;
 }
-
-/*Combined tags*/
 
 .content img {
   max-height: 200px;
