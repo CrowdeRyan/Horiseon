@@ -27,6 +27,10 @@ Link to Website: https://crowderyan.github.io/Horiseon/
 
     ![Example of altered element names](./assets/images/semantic-elements.png)
 
+- E. Consolidated Code
+
+![Combined tags](./assets/images/clean-code.png)
+
 2. Adding Alternate display text to all the images
 
    ![Added description to alt tag](./assets/images/alt.png)
