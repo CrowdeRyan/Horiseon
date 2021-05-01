@@ -30,6 +30,7 @@ Link to Website: https://crowderyan.github.io/Horiseon/
 - E. Consolidated Code
 
 ![Combined tags](./assets/images/clean-code.png)
+![Combined tags](./assets/images/clean-code1.png)
 
 2. Adding Alternate display text to all the images
 
